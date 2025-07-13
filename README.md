@@ -1,3 +1,2 @@
-# Hefei Quantumore Technology Co., Ltd.
-
-Welcome to our Github
+# Welcome to our Github
+Hefei Quantumore Technology Co., Ltd.
